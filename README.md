@@ -4,4 +4,4 @@ In order to write any given Vietnamese tonic marks properly in a JSON file, one 
 
 1) Manually enter Unicode escape sequence.
 
-2) Use the JavaScript escapes tool developed by Mathias Bynens, which is available at this link: https://github.com/mathiasbynens/mothereff.in/tree/master/js-escapes.
+2) Use the JavaScript escapes tool developed by Mathias Bynens, which is available at this link: https://github.com/mathiasbynens/mothereff.in/tree/master/js-escapes. This link will take users directly to the tool itself: https://mothereff.in/js-escapes
